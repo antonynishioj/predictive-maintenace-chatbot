@@ -19,4 +19,5 @@ which is convenient as other messaging platform uses internet for transmitting m
 
 
 #chatbot interface
-[![Alt text](https://github.com/rtamilarasan11/predictive-maintenace-chatbot/blob/4c53234ee38db070d36904c1e8024faa354c9315/Screenshot%202024-09-02%20232058.png)
+
+![Alt text](https://github.com/rtamilarasan11/predictive-maintenace-chatbot/blob/4c53234ee38db070d36904c1e8024faa354c9315/Screenshot%202024-09-02%20232058.png)
